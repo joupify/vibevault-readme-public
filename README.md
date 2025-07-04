@@ -79,7 +79,7 @@ Ce projet illustre une architecture e-commerce complète avec back-office, filtr
 ---
 
 > 🔒 Ce dépôt ne contient que la documentation publique du projet.
-> Le code source complet est privé. Une démonstration ou un accès temporaire peut être accordé sur demande, dans le cadre d’un processus de recrutement.
+> Le code source complet est privé. Une démonstration peut être accordé sur demande, dans le cadre d’un processus de recrutement.
 
 ---
 
